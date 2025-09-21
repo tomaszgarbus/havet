@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  16 SEP 2025 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  21 SEP 2025 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -317,23 +317,35 @@ Underfull \hbox (badness 1297) in paragraph at lines 174--174
 
 
 
-[6])
+[6]) (./content/lecture3.tex
 
 
 
-[7
+[7]) (./content/reading3.tex
 
-] (./main.aux)
+
+Underfull \hbox (badness 2293) in paragraph at lines 32--38
+[]\OT1/cmr/m/n/10 turbidite de-posits -- tur-bid-ity cur-rents are un-der-wa-te
+r
+ []
+
+
+
+[8]
+
+)
+
+[9] (./main.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3497 strings out of 475287
- 52950 string characters out of 5770290
+ 3515 strings out of 475287
+ 53396 string characters out of 5770290
  466480 words of memory out of 5000000
- 26320 multiletter control sequences out of 15000+600000
+ 26332 multiletter control sequences out of 15000+600000
  564133 words of font info for 57 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  57i,8n,65p,517b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -345,10 +357,10 @@ r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/cm-super/sfrm1000.pfb>
-Output written on main.pdf (7 pages, 1462954 bytes).
+Output written on main.pdf (9 pages, 1476335 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 84 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
