@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  27 SEP 2025 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  10 NOV 2025 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -353,38 +353,136 @@ Underfull \hbox (badness 3803) in paragraph at lines 112--115
 
 
 
-[11])
+[11]
+
+) (./content/lecture5.tex
+
+[12]
+
+) (./content/lecture6.tex
+
+[13]
+Underfull \hbox (badness 1142) in paragraph at lines 39--40
+[]\OT1/cmr/m/n/10 Contains co-va-lent bonds be-tween oxy-gen and hy-dro-gen
+ []
 
 
 
-[12
 
-] (./main.aux)
+
+[14]) (./content/lecture7.tex
+
+<img/wave_characteristics.png, id=62, 887.315pt x 422.57875pt>
+File: img/wave_characteristics.png Graphic file (type png)
+<use img/wave_characteristics.png>
+Package pdftex.def Info: img/wave_characteristics.png  used on input line 58.
+(pdftex.def)             Requested size: 255.67024pt x 121.75803pt.
+
+
+[15]
+<img/wave_characteristics2.png, id=66, 836.12375pt x 490.83376pt>
+File: img/wave_characteristics2.png Graphic file (type png)
+<use img/wave_characteristics2.png>
+Package pdftex.def Info: img/wave_characteristics2.png  used on input line 63.
+(pdftex.def)             Requested size: 255.67024pt x 150.08229pt.
+<img/wave_surf_zone.png, id=67, 895.345pt x 363.3575pt>
+File: img/wave_surf_zone.png Graphic file (type png)
+<use img/wave_surf_zone.png>
+Package pdftex.def Info: img/wave_surf_zone.png  used on input line 93.
+(pdftex.def)             Requested size: 255.67024pt x 103.75755pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+<img/tsunami.png, id=68, 967.615pt x 545.03625pt>
+File: img/tsunami.png Graphic file (type png)
+<use img/tsunami.png>
+Package pdftex.def Info: img/tsunami.png  used on input line 128.
+(pdftex.def)             Requested size: 213.05998pt x 120.00815pt.
+
+
+[16 <./img/wave_characteristics.png> <./img/wave_characteristics2.png> <./img/t
+sunami.png> <./img/wave_surf_zone.png>]) (./content/lecture8.tex
+
+
+
+[17]
+Underfull \hbox (badness 2617) in paragraph at lines 117--117
+[]\OT1/cmr/bx/n/12 The for-ma-tion of a wave cut plat-
+ []
+
+) (./content/reading9.tex
+
+
+
+[18]
+
+) (./content/lecture9.tex
+
+[19]
+
+) (./content/reading10.tex
+
+[20]
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 69--73
+\OT1/cmr/m/n/10 through a semiper-me-able mem-brane from higher wa-ter
+ []
+
+
+
+[21]) (./content/lecture10.tex
+Underfull \hbox (badness 1112) in paragraph at lines 25--27
+[]\OT1/cmr/m/n/10 eukaryota = uni-cel-lu-ral and mul-ti-cel-lu-ral or-gan-isms 
+with a
+ []
+
+
+
+
+
+[22]
+
+
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]\OT1/cmr/bx/n/12 Ocean bi-o-log-i-cal pro-duc-tiv-ity, food
+ []
+
+
+
+)
+
+[24] (./main.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3531 strings out of 475287
- 53780 string characters out of 5770290
- 466480 words of memory out of 5000000
- 26342 multiletter control sequences out of 15000+600000
+ 3626 strings out of 475287
+ 56222 string characters out of 5770290
+ 466482 words of memory out of 5000000
+ 26413 multiletter control sequences out of 15000+600000
  564133 words of font info for 57 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
- 57i,8n,65p,517b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,8n,65p,517b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/cm-super/sfrm1000.pfb>
-Output written on main.pdf (12 pages, 1486052 bytes).
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (24 pages, 7339262 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
