@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  22 NOV 2025 16:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024 Gentoo Linux) (preloaded format=pdflatex 2025.8.24)  27 NOV 2025 20:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,9 +377,9 @@ Package pdftex.def Info: img/distribution_of_sediment.png  used on input line 1
 
 [12 <./img/distribution_of_sediment.png (PNG copy)>]
 
-) (./content/lecture5.tex
 
-[13]
+
+[13]) (./content/lecture5.tex
 
 
 
@@ -387,20 +387,21 @@ Package pdftex.def Info: img/distribution_of_sediment.png  used on input line 1
 
 
 
-[15]) (./content/lecture6.tex
+[15]
+
+) (./content/lecture6.tex
 Underfull \hbox (badness 1142) in paragraph at lines 39--40
 []\OT1/cmr/m/n/10 Contains co-va-lent bonds be-tween oxy-gen and hy-dro-gen
  []
 
 
 
-
-
 [16]
 
-) (./content/lecture7.tex
 
-[17]
+
+[17]) (./content/lecture7.tex
+
 <img/wave_characteristics.png, id=74, 887.315pt x 422.57875pt>
 File: img/wave_characteristics.png Graphic file (type png)
 <use img/wave_characteristics.png>
@@ -413,52 +414,52 @@ Package pdftex.def Info: img/wave_characteristics2.png  used on input line 63.
 (pdftex.def)             Requested size: 255.67024pt x 150.08229pt.
 
 
-<img/wave_surf_zone.png, id=76, 895.345pt x 363.3575pt>
+[18 <./img/wave_characteristics.png> <./img/wave_characteristics2.png>]
+<img/wave_surf_zone.png, id=81, 895.345pt x 363.3575pt>
 File: img/wave_surf_zone.png Graphic file (type png)
 <use img/wave_surf_zone.png>
 Package pdftex.def Info: img/wave_surf_zone.png  used on input line 93.
 (pdftex.def)             Requested size: 255.67024pt x 103.75755pt.
-<img/tsunami.png, id=77, 967.615pt x 545.03625pt>
+<img/tsunami.png, id=82, 967.615pt x 545.03625pt>
 File: img/tsunami.png Graphic file (type png)
 <use img/tsunami.png>
 Package pdftex.def Info: img/tsunami.png  used on input line 128.
 (pdftex.def)             Requested size: 213.05998pt x 120.00815pt.
 
 
-[18 <./img/wave_characteristics.png> <./img/wave_characteristics2.png> <./img/t
-sunami.png> <./img/wave_surf_zone.png>]) (./content/lecture8.tex
+) (./content/lecture8.tex
+
+[19 <./img/tsunami.png> <./img/wave_surf_zone.png>]
 
 
-
-[19]
 Underfull \hbox (badness 2617) in paragraph at lines 117--117
 []\OT1/cmr/bx/n/12 The for-ma-tion of a wave cut plat-
  []
 
 
 
-) (./content/reading9.tex
-
-[20]
-
-) (./content/lecture9.tex
-
-[21]
+[20]) (./content/reading9.tex
 
 
 
-[22]) (./content/reading10.tex
+[21]) (./content/lecture9.tex
 
 
+
+[22]
+
+) (./content/reading10.tex
+
+[23]
 Underfull \hbox (badness 1264) in paragraph at lines 69--73
 \OT1/cmr/m/n/10 through a semiper-me-able mem-brane from higher wa-ter
  []
 
 
 
-[23]) (./content/lecture10.tex
+) (./content/lecture10.tex
 
-
+[24]
 Underfull \hbox (badness 1112) in paragraph at lines 25--27
 []\OT1/cmr/m/n/10 eukaryota = uni-cel-lu-ral and mul-ti-cel-lu-ral or-gan-isms 
 with a
@@ -466,24 +467,26 @@ with a
 
 
 
-[24]
-
 
 
 [25]
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 213--213
 []\OT1/cmr/bx/n/12 Ocean bi-o-log-i-cal pro-duc-tiv-ity, food
  []
 
 
 
-) (./content/lecture11.tex
+[26]) (./content/lecture11.tex
 
-[26]
 
-) (./content/review.tex)
 
-[27] (./main.aux)
+[27]) (./content/review.tex
+
+)
+
+[28] (./main.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -507,10 +510,10 @@ share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist
 lic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
 usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (27 pages, 9570814 bytes).
+Output written on main.pdf (28 pages, 9574547 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 171 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
